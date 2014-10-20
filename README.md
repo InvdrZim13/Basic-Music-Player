@@ -1,8 +1,4 @@
 Basic-Music-Player
 ==================
 
-Source Files For A Basic Music Player Project
-
-Songs need to be in .wav format and be in a folder within the project directory.
-
-Project is Windows/Visual Studio only
+Required source files for CS project, will not actually compile (as most things needed to do so are not included, this is just the main stuff that I had to do).
